@@ -8,3 +8,5 @@ export function applyDiscount (price: number, percent: number): number {
 }
 
 
+
+
